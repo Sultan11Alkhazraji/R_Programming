@@ -1,0 +1,26 @@
+# Welcome {.unnumbered}
+
+This site documents my solutions, exercises, and key concepts from the **R Programming** interactive course in [`swirl`](https://swirlstats.com/).
+
+## Purpose of this Notebook
+
+- **Track Progress:** Document each lesson in the 15-module introductory R curriculum.
+- **Reference Guide:** Maintain a searchable collection of R syntax, base functions, and code examples.
+- **Executable Notes:** Test and preserve reproducible code chunks alongside personal takeaways.
+
+## Course Structure
+
+The course is divided into three core sections:
+
+1.  **Core Fundamentals:** Basic syntax, workspace commands, sequences, vectors, and handling missing data (`NA`).
+2.  **Data Structures & Logic:** Matrices, data frames, logical tests, and writing custom functions.
+3.  **Apply Family & Analysis:** Functional programming (`lapply`, `sapply`, `vapply`, `tapply`), simulations, dates, and base graphics.
+
+## Environment
+
+All code in this documentation was written and executed using:
+
+```{r}
+# Display environment session info
+R.version.string
+```

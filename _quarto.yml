@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "R Programming: Swirl Notes"
+  author: "Sultan Alkhazraji"
+  chapters:
+    - index.qmd
+    - part: "Core Fundamentals"
+      chapters:
+        - 01-basic-building-blocks.qmd
+        - 02-workspace-and-files.qmd
+        - 03-sequences-of-numbers.qmd
+        - 04-vectors.qmd
+        - 05-missing-values.qmd
+        - 06-subsetting-vectors.qmd
+    - part: "Data Structures & Logic"
+      chapters:
+        - 07-matrices-and-data-frames.qmd
+        - 08-logic.qmd
+        - 09-functions.qmd
+    - part: "Apply Family & Analysis"
+      chapters:
+        - 10-lapply-and-sapply.qmd
+        - 11-vapply-and-tapply.qmd
+        - 12-looking-at-data.qmd
+        - 13-simulation.qmd
+        - 14-dates-and-times.qmd
+        - 15-base-graphics.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    code-fold: show

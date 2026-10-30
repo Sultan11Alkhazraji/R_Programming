@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R Programming: Swirl Notes",
+    "section": "",
+    "text": "Welcome\nThis site documents my solutions, exercises, and key concepts from the R Programming interactive course in swirl.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#purpose-of-this-notebook",
+    "href": "index.html#purpose-of-this-notebook",
+    "title": "R Programming: Swirl Notes",
+    "section": "Purpose of this Notebook",
+    "text": "Purpose of this Notebook\n\nTrack Progress: Document each lesson in the 15-module introductory R curriculum.\nReference Guide: Maintain a searchable collection of R syntax, base functions, and code examples.\nExecutable Notes: Test and preserve reproducible code chunks alongside personal takeaways.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "R Programming: Swirl Notes",
+    "section": "Course Structure",
+    "text": "Course Structure\nThe course is divided into three core sections:\n\nCore Fundamentals: Basic syntax, workspace commands, sequences, vectors, and handling missing data (NA).\nData Structures & Logic: Matrices, data frames, logical tests, and writing custom functions.\nApply Family & Analysis: Functional programming (lapply, sapply, vapply, tapply), simulations, dates, and base graphics.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#environment",
+    "href": "index.html#environment",
+    "title": "R Programming: Swirl Notes",
+    "section": "Environment",
+    "text": "Environment\nAll code in this documentation was written and executed using:\n\n\nCode\n# Display environment session info\nR.version.string\n\n\n[1] \"R version 4.6.1 (2026-06-24 ucrt)\"",
+    "crumbs": [
+      "Welcome"
+    ]
+  }
+]
